@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 2. Navigate to the project directory:
 
     ```bash
-    cd your-project
+    cd Blogsite
     ```
 
 3. Install PHP dependencies using Composer:

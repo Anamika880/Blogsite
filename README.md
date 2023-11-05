@@ -77,3 +77,7 @@ Your Laravel project should now be up and running. Access it in your web browser
  For Author
  username - author@gmail.com
  password - 11111111
+
+ For Reader
+ username - reader@gmail.com
+ password - 11111111
